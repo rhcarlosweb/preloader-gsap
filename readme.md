@@ -1,4 +1,4 @@
 # Required plugins
 
-- GSAP (https://greensock.com/gsap)
-- Imagesloaded (https://imagesloaded.desandro.com/)
+- [GSAP] (https://greensock.com/gsap)
+- [Imagesloaded] (https://imagesloaded.desandro.com/)
